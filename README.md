@@ -1,0 +1,2 @@
+# MyPointment.Proj
+yesodot project
